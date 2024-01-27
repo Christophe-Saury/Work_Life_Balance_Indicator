@@ -25,9 +25,11 @@ Preferred form of product using user input.
 
 The product could look like the following :
 A bracelet that has leds to indicate the current work-life balance, can vibrate and release a relaxing scent.
+
 ![image](https://github.com/Christophe-Saury/Work_Life_Balance_Indicator/assets/95085659/a2537a12-fd8c-4948-a877-a50ca28f875b)
 
 Paired with a mobile app that contains the user's data :
+
 ![image](https://github.com/Christophe-Saury/Work_Life_Balance_Indicator/assets/95085659/b9edea33-9726-4bb4-b94f-d085cf32e2a4)
 
 
