@@ -1,5 +1,8 @@
 # Work_Life_Balance_Indicator
 UX design project for my UI/UX design class at Sogang in Seoul, Korea.
+You can access the project here :
+https://www.figma.com/file/vtMdjT1eR6esM7sVoEx4ho/UI%2FUX-final-project?type=design&mode=design&t=FNTYLqlA3GugsPNw-1
+
 We had to design a product for a problem of our choice.
 For the project, the teacher wanted us to stray away from web and mobile apps and design a solution that would use various user interactions to solve a problem in a creative new way.
 We were asked to be as creative as possible even if it meant designing products that may be unfeasible.
